@@ -2,6 +2,7 @@
 
 YubiWallet is a command-line tool that allows you to interact with a YubiKey for Bitcoin transaction signing. The tool can be used for initializing the YubiKey and constructing, signing, and marshaling Bitcoin transactions.
 
+
 ## Features
 * Initialize YubiKey: Generate keys and store them on your YubiKey.
 * Construct Bitcoin Transactions: Create and construct a Bitcoin transaction.
